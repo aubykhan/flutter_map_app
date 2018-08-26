@@ -1,8 +1,2 @@
-# flutter_map_app
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Sample app for Google Maps for Flutter
+Integrates the experimental Google Maps widget for Flutter. The plugin is currently being developed and available [here](https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter).
