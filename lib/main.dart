@@ -9,7 +9,7 @@ void main() {
   final GoogleMapOverlayController controller =
       GoogleMapOverlayController.fromSize(
     width: size.width,
-    height: size.height - 70.0,
+    height: size.height - 72.0,
   );
   final mapController = controller.mapController;
   final Widget mapWidget = GoogleMapOverlay(controller: controller);
